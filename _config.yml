@@ -9,7 +9,8 @@
 title: IT Consultant
 email: nhr@dwarfnet.com
 description: > # this means to ignore newlines until "baseurl:"
-  Experienced computer technology professional with a demonstrated history of working in the Information Technology industry. Skilled in Service Delivery, Analytical Skills, Technical Support, Software Development.
+  Experienced computer technology professional with a demonstrated history of working in the Information Technology industry.
+  Skilled in Service Delivery, Analytical Skills, Technical Support and Software Development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
